@@ -1,4 +1,36 @@
-
-
+.button1{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+  }
+  .button2{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+  }
+  .button3{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+  }
+  .button4{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 1px solid black;
+  }
+  .button1 {
+    background-color:blue;
+  }
+  .button5{background-color:black;
+    border-color: black;}
+  .button6{background-color:black;
+  border-color:black;}
+  .button7{background-color:black;
+  border-color:black;}
+  
 
 
