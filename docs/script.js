@@ -100,3 +100,27 @@ buttonpress('a')
 buttonpress('b')
 buttonpress('c')
 buttonpress('d')
+
+
+
+
+
+function kamera11(){
+  
+document.getElementById("gray").innerHTML ="<img src='img/bitmaps/kamera4.jpg' />" ;
+
+}
+//function kamera1("v")
+
+function kamera22(){
+  document.getElementById("gray").innerHTML ="<img src='img/bitmaps/kamera3jpg.jpg' />" ;
+
+}
+function kamera33(){
+  document.getElementById("gray").innerHTML ="<img src='img/bitmaps/kamera2.jpg' />" ;
+
+}
+function kamera44(){
+  document.getElementById("gray").innerHTML ="<img src='img/bitmaps/kamera.jpg' />" ;
+
+}
